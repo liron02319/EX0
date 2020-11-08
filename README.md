@@ -5,7 +5,7 @@ The task deals with the development of a data structure of an unweighted and uni
 
 Example of unintentional graph:
  
-http://www.siz.co.il/my.php?i=2yzqwyd2vk4y.png 
+<a href="http://www.siz.co.il/"><img src="http://up419.siz.co.il/up1/2yzqwyd2vk4y.png" border="0" alt="תמונה 1" /></a>
 
 in this task we have three classes: NodeData, GraphDS, GraphAlgo
 and three interfaces  : Node_data, graph, graph_algorithms
